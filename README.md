@@ -25,4 +25,4 @@ Este projeto é um site estático para a cafeteria Vinacafé, que oferece uma ex
 - Botão pop-up com a localização da cafeteria.
 
 ## Notas Adicionais
-Esse projeto foi densenvolvido na Formação CSS Web Developer da Digital Innovation One.  
+Esse projeto foi densenvolvido na Formação CSS Web Developer da Digital Innovation One. As informações sobre a cafeteria são fictícias e foram utilizadas apenas para fins de demonstração.
