@@ -14,8 +14,8 @@ Este projeto é um site estático para a cafeteria Vinacafé, que oferece uma ex
 ## Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/JosielJrr/Coffee-shop.git
-2. Abra o arquivo index.html no seu navegador.
+   git clone https://github.com/JosielJrr/coffee-shop.git
+2. Abra o arquivo `index.html` no seu navegador.
 
 ## Funcionalidades
 - Navegação pela barra de menu.
