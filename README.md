@@ -1,8 +1,8 @@
 # Vinacafé - Projeto de Cafeteria
 
-<p align="center">
+<div align="center">
 <img src="assets/images/logo.png" alt="Logo da cafetira VinaCafé" width="25%" align="center" />
-</p>
+</div>
 
 ## Descrição
 Este projeto é um site estático para a cafeteria Vinacafé, que oferece uma experiência virtual para os clientes conhecerem o local, o cardápio e mais.
@@ -13,8 +13,9 @@ Este projeto é um site estático para a cafeteria Vinacafé, que oferece uma ex
 
 ## Instalação
 1. Clone o repositório:
-   ```bash
+   ```
    git clone https://github.com/JosielJrr/coffee-shop.git
+   ```
 2. Abra o arquivo `index.html` no seu navegador.
 
 ## Funcionalidades
